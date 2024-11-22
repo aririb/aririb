@@ -1,6 +1,5 @@
 ## Hello!
 
-<!--
 I am a student at the University of Massachusetts Lowell studying computer science. I will be graduating in May of 2025.
 
 I am currently working on learning product management skills, both at work and at home!
@@ -12,4 +11,4 @@ creating and improving interfaces revolving around the user.
 
 Email: ariana_brown@student.uml.edu
 Linkedin: https://www.linkedin.com/in/ariana-brown-apb/
--->
+
