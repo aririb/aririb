@@ -10,5 +10,6 @@ In my degree, I have focused on graphical user interfaces and my capstone projec
 creating and improving interfaces revolving around the user.
 
 Email: ariana_brown@student.uml.edu
+
 Linkedin: https://www.linkedin.com/in/ariana-brown-apb/
 
